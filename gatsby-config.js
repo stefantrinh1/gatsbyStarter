@@ -1,7 +1,7 @@
 
     module.exports = {
     siteMetadata: {
-      title: 'Del Italia',
+      title: 'Gatsby Starter',
       description:
         'Testing The Go Nation Generator, Your created a Site for Del Italia from the business Id: bzn-FiHYl5AySdif83PtaotvGA',
       author: 'gonation',

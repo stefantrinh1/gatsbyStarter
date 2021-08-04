@@ -3,7 +3,7 @@
     siteMetadata: {
       title: 'Gatsby Starter',
       description:
-        'Testing The Go Nation Generator, Your created a Site for Del Italia from the business Id: bzn-FiHYl5AySdif83PtaotvGA',
+        'starter for temp page',
       author: 'gonation',
       siteUrl: 'https://gatsbystarterdefaultsource.gatsbyjs.io/',
     },

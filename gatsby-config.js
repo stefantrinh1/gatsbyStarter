@@ -1,9 +1,9 @@
 
     module.exports = {
     siteMetadata: {
-      title: 'Gatsby Starter',
+      title: 'Del Italia',
       description:
-        'starter for temp page',
+        'Testing The Go Nation Generator, Your created a Site for Del Italia from the business Id: bzn-FiHYl5AySdif83PtaotvGA',
       author: 'gonation',
       siteUrl: 'https://gatsbystarterdefaultsource.gatsbyjs.io/',
     },
